@@ -16,6 +16,12 @@ Technology stacks:
 - Laravel (5.6.x)
 - Vue (2.x)
 
+Compiling assets:
+
+```
+npm run dev
+```
+
 How to run:
 
 ```
