@@ -4,7 +4,7 @@
 
 ```
 This repository only for temporary access and will be deleted
-shortly.
+immediately.
 ```
 
 ---
